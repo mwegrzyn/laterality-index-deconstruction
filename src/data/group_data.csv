@@ -1,0 +1,6 @@
+Unnamed: 1,,drop,drop,full,full
+,,L-R,L+R,L-R,L+R
+inconclusive,dummy_data1,0,0,0,0
+left,dummy_data2,1,1,1,1
+right,dummy_data3,-1,1,-1,1
+bilateral,dummy_data4,0,1,0,1
